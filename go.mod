@@ -1,4 +1,4 @@
-module rclonetelegram
+module ZRFT97
 
 require github.com/rclone/rclone v1.55.1
 
