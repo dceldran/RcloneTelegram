@@ -1,6 +1,6 @@
-module github.com/G9712/ZRFT97
+module github.com/dceldran/RcloneTelegram
 
-require github.com/rclone/rclone v1.63.0
+require github.com/rclone/rclone v1.63.1
 
 
-go 1.20
+go 1.21
