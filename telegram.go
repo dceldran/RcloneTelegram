@@ -6,7 +6,6 @@ import (
 	"io"
 	"strings"
 
-	"github.com/rclone/rclone/tree/v1.63.1/backend"
 	"github.com/rclone/rclone/fs"
 	"github.com/rclone/rclone/fs/config/configmap"
 	"github.com/rclone/rclone/fs/config/configstruct"
